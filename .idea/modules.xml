@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CQRS_KAFKA.iml" filepath="$PROJECT_DIR$/CQRS_KAFKA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRODUCT_COMMAND/PRODUCT_COMMAND.iml" filepath="$PROJECT_DIR$/PRODUCT_COMMAND/PRODUCT_COMMAND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRODUCT_QUERY/PRODUCT_QUERY.iml" filepath="$PROJECT_DIR$/PRODUCT_QUERY/PRODUCT_QUERY.iml" />
+    </modules>
+  </component>
+</project>
